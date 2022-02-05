@@ -99,3 +99,5 @@ def get_chain():
 
 
 app.run(debug=True, port=5000)
+
+# http://127.0.0.1:5000/chain
